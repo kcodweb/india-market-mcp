@@ -1,0 +1,6 @@
+{
+ "key": "www.nseindia.com/api/NextApi/apiClient/GetQuoteApi?functionName=getMetaData&symbol=ITC",
+ "status": 200,
+ "content_type": "application/json",
+ "body": "{\"symbol\":\"ITC\",\"activeSeries\":[\"EQ\",\"T0\"],\"companyName\":\"ITC Limited\",\"debtSeries\":[],\"isFNOSec\":\"true\",\"isCASec\":\"false\",\"isSLBSec\":\"true\",\"isDebtSec\":\"false\",\"tempSuspendedSeries\":[],\"isSuspended\":\"false\",\"isETFSec\":\"false\",\"isDelisted\":\"false\",\"isin\":\"INE154A01025\",\"isMunicipalBond\":\"false\",\"isHybridSymbol\":\"false\",\"marketType\":\"N\",\"parentSymbol\":\"ITC\",\"casFlag\":\"true\"}"
+}

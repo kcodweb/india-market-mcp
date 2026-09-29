@@ -1,0 +1,6 @@
+{
+ "key": "www.nseindia.com/api/NextApi/apiClient/GetQuoteApi?functionName=getMetaData&symbol=RELIANC",
+ "status": 200,
+ "content_type": "application/json",
+ "body": "{\"symbol\":null,\"activeSeries\":null,\"companyName\":null,\"debtSeries\":null,\"isFNOSec\":null,\"isCASec\":null,\"isSLBSec\":null,\"isDebtSec\":null,\"tempSuspendedSeries\":null,\"isSuspended\":null,\"isETFSec\":null,\"isDelisted\":null,\"isin\":null,\"isMunicipalBond\":null,\"isHybridSymbol\":null,\"marketType\":null,\"parentSymbol\":null,\"casFlag\":null}"
+}

@@ -1,0 +1,6 @@
+{
+ "key": "www.nseindia.com/api/NextApi/apiClient/GetQuoteApi?functionName=getMetaData&symbol=RELIANCE",
+ "status": 200,
+ "content_type": "application/json",
+ "body": "{\"symbol\":\"RELIANCE\",\"activeSeries\":[\"EQ\",\"T0\"],\"companyName\":\"Reliance Industries Limited\",\"debtSeries\":[],\"isFNOSec\":\"true\",\"isCASec\":\"false\",\"isSLBSec\":\"true\",\"isDebtSec\":\"true\",\"tempSuspendedSeries\":[],\"isSuspended\":\"false\",\"isETFSec\":\"false\",\"isDelisted\":\"false\",\"isin\":\"INE002A01018\",\"isMunicipalBond\":\"false\",\"isHybridSymbol\":\"false\",\"marketType\":\"N\",\"parentSymbol\":\"RELIANCE\",\"casFlag\":\"true\"}"
+}

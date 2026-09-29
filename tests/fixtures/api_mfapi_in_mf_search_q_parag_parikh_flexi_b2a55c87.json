@@ -1,0 +1,6 @@
+{
+ "key": "api.mfapi.in/mf/search?q=parag parikh flexi",
+ "status": 200,
+ "content_type": "application/json",
+ "body": "[{\"schemeCode\":122640,\"schemeName\":\"Parag Parikh Flexi Cap Fund - Regular Plan - Growth\"},{\"schemeCode\":122639,\"schemeName\":\"Parag Parikh Flexi Cap Fund - Direct Plan - Growth\"},{\"schemeCode\":153964,\"schemeName\":\"Parag Parikh Flexi Cap Fund - Direct Plan - Monthly IDCW Payout\"},{\"schemeCode\":153965,\"schemeName\":\"Parag Parikh Flexi Cap Fund - Regular Plan - Monthly IDCW Payout\"}]"
+}

@@ -1,0 +1,6 @@
+{
+ "key": "www.nseindia.com/api/fiidiiTradeReact",
+ "status": 200,
+ "content_type": "application/json; charset=utf-8",
+ "body": "[{\"buyValue\":\"46261.11\",\"category\":\"DII\",\"date\":\"29-Sep-2026\",\"netValue\":\"6952.71\",\"sellValue\":\"39308.4\"},{\"buyValue\":\"22472.7\",\"category\":\"FII/FPI\",\"date\":\"29-Sep-2026\",\"netValue\":\"-9980.22\",\"sellValue\":\"32452.92\"}]"
+}
